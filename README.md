@@ -1,9 +1,9 @@
 ﻿# TuffStuff
 
 
-This is a TuffStuff E-commerce website
+This is the TuffStuff E-commerce website
 
-Clone in you repository from here : git clone https://github.com/anisossss/TuffStuff.git
+-> Clone in you repository from here : git clone https://github.com/anisossss/TuffStuff.git
 
 ## Used technologies, librairies and packages
 
@@ -17,22 +17,23 @@ Clone in you repository from here : git clone https://github.com/anisossss/TuffS
 
    * mongoose => Connection between MongoDB and Express framework
 
-   * NodeJS: 10.16.0
-   * npm": 6.9.0
+   * NodeJS version: 10.16.0
+   * npm version: 6.9.0
+
 
 ### Installation
 
 
  1. Install server dependencies
   => cd server ⤵️
-  => npm i
+  => npm i ⤵️
 
  2. Run server 
   => npm start
   
  3. Install client dependencies
   => cd client ⤵️
-  => npm i
+  => npm i ⤵️
 
  4. Run client 
   => npm start
