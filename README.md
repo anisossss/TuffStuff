@@ -5,15 +5,17 @@ TuffStuff E-commerce website
 -> Clone in you repository from here : git clone https://github.com/anisossss/TuffStuff.git
 
 ## Used technologies, librairies and packages
-
+--------------------------
+                          |
+* NodeJS version: 10.16.0 |
+* npm version: 6.9.0      |
+                          |
+--------------------------
 * express => Nodejs framework
 * jsonwebtoken => Share security information 
 * bcrypt => Hashing function
 * cookie-parser => auth middleware
 * mongoose => Connection between MongoDB and Express framework
-
-* NodeJS version: 10.16.0
-* npm version: 6.9.0
 
 ### Installation
 
