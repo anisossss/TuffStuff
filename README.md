@@ -6,17 +6,15 @@ TuffStuff E-commerce website
 
 ## Used technologies, librairies and packages
 --------------------------
-                          |
-* NodeJS version: 10.16.0 |
-* npm version: 6.9.0      |
-                          |
+* NodeJS version: 10.16.0 
+* npm version: 6.9.0      
 --------------------------
 * express => Nodejs framework
 * jsonwebtoken => Share security information 
 * bcrypt => Hashing function
 * cookie-parser => auth middleware
 * mongoose => Connection between MongoDB and Express framework
-
+--------------------------
 ### Installation
 
  1. Install server dependencies
