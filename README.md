@@ -37,4 +37,3 @@ TuffStuff E-commerce website
 * Merge and Deploy from branch master
 * Virtual Azure Server on ubuntu (VPS)
 * Azure Cloud Hosting
-
