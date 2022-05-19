@@ -1,28 +1,21 @@
-﻿# TuffStuff
+# Description
 
-
-This is the TuffStuff E-commerce website
+TuffStuff E-commerce website
 
 -> Clone in you repository from here : git clone https://github.com/anisossss/TuffStuff.git
 
 ## Used technologies, librairies and packages
 
-   * bcrypt => Hashing function
+* express => Nodejs framework
+* jsonwebtoken => Share security information 
+* bcrypt => Hashing function
+* cookie-parser => auth middleware
+* mongoose => Connection between MongoDB and Express framework
 
-   * cookie-parser => auth middleware
-
-   * express => Nodejs framework
-
-   * jsonwebtoken => Share security information 
-
-   * mongoose => Connection between MongoDB and Express framework
-
-   * NodeJS version: 10.16.0
-   * npm version: 6.9.0
-
+* NodeJS version: 10.16.0
+* npm version: 6.9.0
 
 ### Installation
-
 
  1. Install server dependencies
   => cd server ⤵️
@@ -37,3 +30,9 @@ This is the TuffStuff E-commerce website
 
  4. Run client 
   => npm start
+
+#### Deployment CI/CD
+
+* Merge and Deploy from branch main
+* Virtual Azure Server on ubuntu (VPS)
+* Azure Cloud Hosting
