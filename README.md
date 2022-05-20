@@ -35,4 +35,4 @@ TuffStuff E-commerce website
 # Deployment CI/CD
 
 * Merge and Deploy from branch master
-* Deployment on ubuntu (VPS)
+* Deployment via VPS 
