@@ -7,23 +7,23 @@ const price = [
     },
     {
         "_id": 1,
-        "name": "$0 to $10K",
-        "array": [0, 10000]
+        "name": "0DT to 100DT",
+        "array": [0, 100]
     },
     {
         "_id": 2,
-        "name": "$10K to $30K",
-        "array": [10000, 30000]
+        "name": "10DT to 300K",
+        "array": [100, 300]
     },
     {
         "_id": 3,
-        "name": "$30K to $60K",
-        "array": [30000, 60000]
+        "name": "300DT to 600DT",
+        "array": [300, 600]
     },
     {
         "_id": 4,
-        "name": "More than $60K",
-        "array": [60000, 2000000000]
+        "name": "More than 600DT",
+        "array": [600, 100000]
     }  
 ]
 
@@ -32,19 +32,19 @@ const price = [
 const cities = [
     {
         "_id": 1,
-        "name": "Nike"
+        "name": "Clothes"
     },
     {
         "_id": 2,
-        "name": "Balenciaga"
+        "name": "Accessories"
     },
     {
         "_id": 3,
-        "name": "Louis Viton"
+        "name": "Shoes"
     },
     {
         "_id": 4,
-        "name": "Gucci"
+        "name": "Electronics"
     }
 ]
 
@@ -86,7 +86,7 @@ const categories = [
 
 export {
     price,
-    cities,
     apartments,
+    cities,
     categories
 }
